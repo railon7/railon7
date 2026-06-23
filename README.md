@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola, soy Jorge Herrera 👋
 
-<!--
-**railon7/railon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Controller Financiero (CCA®) y Analista de Datos** especializado en convertir procesos complejos en sistemas eficientes mediante **automatización e inteligencia artificial**.
 
-Here are some ideas to get you started:
+Uno la visión de negocio del control de gestión con la parte técnica: diseño herramientas que las personas de operaciones, administración y finanzas realmente usan. Actualmente, mi foco está en **automatización con n8n** y en el **uso de IA para crear nuevas herramientas** internas y para clientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 En qué trabajo
+
+- **Automatización de procesos** con n8n y APIs: integración entre ERP, CRM y herramientas de Microsoft 365, eliminando tareas manuales y reduciendo errores.
+- **IA aplicada a herramientas reales**: scripts y flujos que aprovechan modelos de IA para acelerar el trabajo diario (conversión de documentos, asistentes sobre datos propios, optimización de costes de uso).
+- **Business Intelligence**: cuadros de mando en Power BI integrando SQL, Excel y APIs, con tratamiento de datos en Python.
+- **Implantación y optimización de ERP**: análisis funcional, parametrización, testing y acompañamiento en el arranque.
+
+### 🧰 Tecnologías y herramientas
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoftoffice&logoColor=white)
+
+### 🎯 Lo que me diferencia
+
+Vengo del control de gestión y la operación real de negocios (incluido un recorrido previo en hostelería y desarrollo de sistemas), así que no automatizo por automatizar: parto de la necesidad del negocio y construyo soluciones útiles, sostenibles y adoptadas por el usuario final.
+
+### 📚 Este perfil
+
+Uso GitHub como **biblioteca pública y portafolio**: voy documentando las herramientas y automatizaciones que desarrollo, con su explicación de uso, para que sirvan de referencia y de ejemplo de mi forma de trabajar.
+
+---
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/controldegestionyanalisisdedatos/)
+
+> *Certified Chartered Controller Analyst (CCA®) · Executive MBA (Universidad Loyola) · Microsoft 365 & Power BI*
