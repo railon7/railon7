@@ -39,4 +39,4 @@ Uso GitHub como **biblioteca pública y portafolio**: voy documentando las herra
 
 > *Certified Chartered Controller Analyst (CCA®) · Executive MBA (Universidad Loyola) · Microsoft 365 & Power BI*
 
-[![Web](https://img.shields.io/badge/Web-tazuke.com-F6B420?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tazuke.com)
+[![Global CCI](https://img.shields.io/badge/Global%20CCI-globalcci.org-F6B420?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.globalcci.org/)
