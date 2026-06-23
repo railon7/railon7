@@ -39,4 +39,4 @@ Uso GitHub como **biblioteca pública y portafolio**: voy documentando las herra
 
 > *Certified Chartered Controller Analyst (CCA®) · Executive MBA (Universidad Loyola) · Microsoft 365 & Power BI*
 
-[![Global CCI](https://img.shields.io/badge/Global%20CCI-globalcci.org-F6B420?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.globalcci.org/)
+[![Certified CCA®](https://img.shields.io/badge/Global%20CCI-globalcci.org-F6B420?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.globalcci.org/)
