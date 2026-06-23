@@ -34,5 +34,6 @@ Uso GitHub como **biblioteca pública y portafolio**: voy documentando las herra
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/controldegestionyanalisisdedatos/)
+[![Web](https://img.shields.io/badge/Web-tazuke.com-F6B420?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tazuke.com)
 
 > *Certified Chartered Controller Analyst (CCA®) · Executive MBA (Universidad Loyola) · Microsoft 365 & Power BI*
