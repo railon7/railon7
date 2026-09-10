@@ -47,16 +47,44 @@ Uso GitHub como **biblioteca pública y portafolio**: voy documentando las herra
 
 # Railon7 — Proyectos Públicos
 
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
 Bienvenido a mi perfil. Aquí encontrarás proyectos sobre **automatización empresarial**, **integración de sistemas** y **herramientas para PYMEs**.
 
 Cada proyecto está documentado para ser **replicable y educativo**: no son meras demostraciones, sino soluciones reales con problemas resueltos y aprendizajes documentados.
 
-## Proyectos
+---
+
+## 🛠️ Tech Stack
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Automatización & Scripts** | PowerShell, Python, n8n, Node.js |
+| **Análisis & BI** | Power BI (DAX), Excel, SQL |
+| **Gestión & CRM** | Notion, Holded, Supabase |
+| **Frontend** | React, TypeScript, PWA |
+| **Backend** | Node.js, Supabase (PostgreSQL) |
+| **DevOps** | VPS, Caddy, Docker |
+
+---
+
+## 📚 Proyectos Públicos
 
 ### 📊 **Andalucia-Cafeterias-Productivity**
 Dashboard de **Power BI** para control de productividad de una cadena de cafeterías multicentro. Unifica datos de múltiples TPVs, Excel y Access en un único panel diario con KPIs de ventas, horas, ticket medio y comparativas interanuales.
 
-**Stack:** Power BI (DAX), Excel, M Query  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?logoColor=black)
+
 **Caso de uso:** Control operativo descentralizado  
 🔗 [Ver repo](https://github.com/railon7/Andalucia-Cafeterias-Productivity)
 
@@ -65,7 +93,11 @@ Dashboard de **Power BI** para control de productividad de una cadena de cafeter
 ### 🔄 **son-pyme-notion-holded-n8n**
 **Sistema Operativo de Negocio (SOS)** que integra Notion (operaciones), Holded (contabilidad) y n8n (orquestación). Un presupuesto en Notion se convierte automáticamente en una factura en Holded, y los cobros vuelven a Notion. Incluye módulo de vigilancia competitiva.
 
-**Stack:** Notion API, Holded API, n8n, webhooks  
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Holded](https://img.shields.io/badge/Holded-0E9F6E?logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
+
 **Caso de uso:** Eliminación de doble tecleo operativo-contable  
 **Aprendizajes:** Arquitectura de sincronización bidireccional por lotes, deduplicación en cascada  
 🔗 [Ver repo](https://github.com/railon7/son-pyme-notion-holded-n8n)
@@ -75,7 +107,10 @@ Dashboard de **Power BI** para control de productividad de una cadena de cafeter
 ### 💼 **Gestion-Unidad-Negocio**
 Mini-ERP en **Excel** para que cada unidad de negocio registre su operativa diaria (caja, compras, inventario, horas de personal) y la transmita en vivo a la oficina central. Una sola plantilla replicable para docenas de centros, con dashboard mensual de gestión a coste directo.
 
-**Stack:** Excel (fórmulas DAX, tablas estructuradas)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?logoColor=black)
+![Microsoft%20365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft&logoColor=white)
+
 **Caso de uso:** Consolidación homogénea de múltiples centros  
 🔗 [Ver repo](https://github.com/railon7/Gestion-Unidad-Negocio)
 
@@ -84,14 +119,17 @@ Mini-ERP en **Excel** para que cada unidad de negocio registre su operativa diar
 ### 🔨 **convert-project-to-md**
 **Conversor automático** de carpetas de proyecto a Markdown para Windows. Transforma documentos pesados (Excel, Word, PDF, CSV, HTML) en texto plano `.md`, replicando la estructura de carpetas. Ideal para trabajar con asistentes de IA gastando menos tokens.
 
-**Stack:** PowerShell, Python (MarkItDown)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![License%20MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 **Caso de uso:** Optimización de lectura de IA en proyectos grandes  
 **Automatización:** Programador de Windows (cada 10 días)  
 🔗 [Ver repo](https://github.com/railon7/convert-project-to-md)
 
 ---
 
-## Repositorios Privados
+## 🔐 Repositorios Privados
 
 También mantengo proyectos privados relacionados con:
 - **Tazuke:** Método de implantación ERP para PYMEs, catálogo de módulos, core reutilizable
@@ -101,7 +139,7 @@ También mantengo proyectos privados relacionados con:
 
 ---
 
-## Sobre este perfil
+## 📍 Sobre este perfil
 
 📍 Especializado en **automatización de procesos empresariales**, **integraciones sin código** y **herramientas de gestión para PYMEs**.
 
@@ -117,16 +155,44 @@ También mantengo proyectos privados relacionados con:
 
 # Railon7 — Public Projects
 
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
 Welcome to my profile. Here you'll find projects about **business automation**, **systems integration**, and **tools for SMEs**.
 
 Each project is documented to be **replicable and educational**: these are not mere demos, but real solutions with problems solved and learnings documented.
 
-## Projects
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|---------------|
+| **Automation & Scripts** | PowerShell, Python, n8n, Node.js |
+| **Analytics & BI** | Power BI (DAX), Excel, SQL |
+| **Management & CRM** | Notion, Holded, Supabase |
+| **Frontend** | React, TypeScript, PWA |
+| **Backend** | Node.js, Supabase (PostgreSQL) |
+| **DevOps** | VPS, Caddy, Docker |
+
+---
+
+## 📚 Public Projects
 
 ### 📊 **Andalucia-Cafeterias-Productivity**
 **Power BI** dashboard for productivity control across a multi-location café chain. Consolidates data from multiple POS systems, Excel, and Access into a single daily panel with KPIs for sales, hours, average ticket, and year-over-year comparisons.
 
-**Stack:** Power BI (DAX), Excel, M Query  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?logoColor=black)
+
 **Use case:** Decentralized operational control  
 🔗 [View repo](https://github.com/railon7/Andalucia-Cafeterias-Productivity)
 
@@ -135,7 +201,11 @@ Each project is documented to be **replicable and educational**: these are not m
 ### 🔄 **son-pyme-notion-holded-n8n**
 **Business Operating System (SOS)** that integrates Notion (operations), Holded (accounting), and n8n (orchestration). A budget created in Notion automatically becomes an invoice in Holded, and payments flow back to Notion. Includes a competitive intelligence module.
 
-**Stack:** Notion API, Holded API, n8n, webhooks  
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Holded](https://img.shields.io/badge/Holded-0E9F6E?logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
+
 **Use case:** Elimination of operational-accounting double entry  
 **Learnings:** Batch bidirectional sync architecture, cascading deduplication  
 🔗 [View repo](https://github.com/railon7/son-pyme-notion-holded-n8n)
@@ -145,7 +215,10 @@ Each project is documented to be **replicable and educational**: these are not m
 ### 💼 **Gestion-Unidad-Negocio**
 Mini-ERP in **Excel** where each business unit logs daily operations (cash, purchases, inventory, staff hours) and transmits live to central office. A single replicable template for dozens of locations, with monthly management dashboard at direct cost.
 
-**Stack:** Excel (DAX formulas, structured tables)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?logoColor=black)
+![Microsoft%20365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft&logoColor=white)
+
 **Use case:** Homogeneous consolidation across multiple locations  
 🔗 [View repo](https://github.com/railon7/Gestion-Unidad-Negocio)
 
@@ -154,14 +227,17 @@ Mini-ERP in **Excel** where each business unit logs daily operations (cash, purc
 ### 🔨 **convert-project-to-md**
 **Automatic converter** for project folders to Markdown on Windows. Transforms heavy documents (Excel, Word, PDF, CSV, HTML) into plain text `.md`, replicating folder structure. Perfect for working with AI assistants while using fewer tokens.
 
-**Stack:** PowerShell, Python (MarkItDown)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![License%20MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 **Use case:** AI reading optimization on large projects  
 **Automation:** Windows Task Scheduler (every 10 days)  
 🔗 [View repo](https://github.com/railon7/convert-project-to-md)
 
 ---
 
-## Private Repositories
+## 🔐 Private Repositories
 
 I also maintain private projects related to:
 - **Tazuke:** ERP implementation methodology for SMEs, module catalog, reusable core
@@ -171,7 +247,7 @@ I also maintain private projects related to:
 
 ---
 
-## About this profile
+## 📍 About this profile
 
 📍 Specialized in **business process automation**, **no-code integrations**, and **management tools for SMEs**.
 
